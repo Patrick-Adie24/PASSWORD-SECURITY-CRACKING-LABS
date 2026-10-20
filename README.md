@@ -348,75 +348,9 @@ Successful opening of the PDF provided verification that the password-recovery p
 
 ---
 
-# 🛡️ 7. Module 01 Evidence
+# 🛡️ 7. Module 02 Password Cracking with Networkwalks Tools
 
-> Evidence screenshots are organized under:
->
-> `module-1-jtr/evidence/`
-
-###  JTR / Johnny Setup
-
-<img width="1347" height="593" alt="SETUP JOHNNY" src="https://github.com/user-attachments/assets/5a9e4ebf-a626-4e82-8f11-362a17ae49ad" />
-
-<img width="1359" height="749" alt="JOHNNY SELECT COMPONENT" src="https://github.com/user-attachments/assets/8949ec91-2716-4022-848b-0fc2dfa90283" />
-
-<img width="1365" height="744" alt="JOHNNY MENU SHORTCUT" src="https://github.com/user-attachments/assets/7e78be46-39ed-4fb1-9580-e0a80e8b1b4b" />
-
-<img width="1365" height="767" alt="READY TO INSTALL" src="https://github.com/user-attachments/assets/b16ed393-bfba-4a8b-b51b-f4d496e22a6f" />
-
-<img width="1365" height="762" alt="COMPLETING JOHHNNY WIZARD" src="https://github.com/user-attachments/assets/4ef55594-5231-483e-b880-9afd29575b53" />
-
-<img width="1364" height="753" alt="JTR RUN FOLDER" src="https://github.com/user-attachments/assets/6de33aee-8a24-4df7-a14b-8778e96a50e3" />
-
-<img width="1355" height="750" alt="JTR JOHN EXE" src="https://github.com/user-attachments/assets/64bc801d-653d-4a0e-8515-d8f80be15aec" />
-
-<img width="1364" height="761" alt="JTR FILE AND EXTRACTED" src="https://github.com/user-attachments/assets/7d7e9d58-997d-439a-93d1-6628235e9fdc" />
-
-<img width="1361" height="766" alt="JOHNNY SETTINGS EXE" src="https://github.com/user-attachments/assets/c3cf7fe1-df9f-437b-9a4f-0e7e917014c6" />
-
-<img width="1352" height="766" alt="JOHNNY DONE OPENED" src="https://github.com/user-attachments/assets/5c5da2d4-0fc5-4342-bc68-04beeb5e43e8" />
-
-<img width="1342" height="762" alt="JOHNNY EXESUCCESS DONE" src="https://github.com/user-attachments/assets/d7433b3f-7155-4b65-8f2e-b793e01e2d72" />
-
-
-
----
-
-###  PDF Hash Extraction
-
-
-<img width="1365" height="760" alt="JOHNNY PASSWORD PROOF 2" src="https://github.com/user-attachments/assets/4b6d95d9-911a-453e-9283-06fe449fa686" />
-
-<img width="1365" height="720" alt="JOHNNY PASSWORD PROOF 3" src="https://github.com/user-attachments/assets/82573dd7-534c-43dc-8050-a1a042fa0a0e" />
-
-
-
----
-
-### 📝 Hash File
-
-<img width="1355" height="724" alt="MY PDFFILE HASH 1" src="https://github.com/user-attachments/assets/3dd0804b-6d3e-4083-9bdb-cf3a36daf491" />
-
-<img width="1361" height="716" alt="MY PDFFILE HASH 2" src="https://github.com/user-attachments/assets/cb322607-3e37-4a02-a275-aa443fe4cac7" />
-
-<img width="1365" height="749" alt="MY PDFFILE HASH 3" src="https://github.com/user-attachments/assets/3d09f4aa-6c91-4559-9f57-31e181a9baef" />
-
-
----
-
-### ⚔️ Password Recovery
-
-<img width="1365" height="767" alt="JOHNNY PASSWORD CRACK 1 IS DONE" src="https://github.com/user-attachments/assets/1d390454-b0f6-48e9-8867-2c39c1629397" />
-
-<img width="1365" height="767" alt="JOHNNY PASSWORD CRACK 2 IS DONE" src="https://github.com/user-attachments/assets/7d1f82d4-9538-419d-9fd0-152d262d0697" />
-
-<img width="1365" height="762" alt="JOHNNY PASSWORD CRACK 3 IS DONE" src="https://github.com/user-attachments/assets/2341b111-d3c6-4810-af0f-ae9acf9710d9" />
-
----
-
-# 🛡️ 8. Module 02 Password Cracking with Networkwalks Tools
-
-## 8.1  Module Overview
+## 7.1  Module Overview
 
 The second practical focused on browser-based password-security tools provided as part of the Networkwalks training exercise.
 
@@ -429,7 +363,7 @@ The workflow involved extracting the PDF hash, copying the complete hash value, 
 
 ---
 
-## 8.2  Module Environment
+## 7.2  Module Environment
 
 | **Component** | **Details** |
 |---|---|
@@ -442,7 +376,7 @@ The workflow involved extracting the PDF hash, copying the complete hash value, 
 
 ---
 
-## 8.3  Module 02 Workflow
+## 7.3  Module 02 Workflow
 
 ```mermaid
 flowchart LR
@@ -469,9 +403,9 @@ flowchart LR
 
 ---
 
-## 8.4  Practical Procedure
+## 7.4  Practical Procedure
 
-### 🔹 8.4.1 Obtain the Encrypted PDF
+### 🔹 7.4.1 Obtain the Encrypted PDF
 
 The protected PDF supplied for the laboratory exercise was obtained and used as the authorized target.
 
@@ -499,7 +433,7 @@ format.
 
 ---
 
-### 🔹 8.4.4 Copy the Complete Hash
+### 🔹 7.4.4 Copy the Complete Hash
 
 The complete hash value was copied for use during the next stage.
 
@@ -507,19 +441,19 @@ Preserving the complete hash was important because the entire value represents t
 
 ---
 
-### 🔹 8.4.5 Open the Password Cracker
+### 🔹 7.4.5 Open the Password Cracker
 
 The Networkwalks Password Cracker was opened in the browser.
 
 ---
 
-### 🔹 8.4.6 Submit the Hash
+### 🔹 7.4.6 Submit the Hash
 
 The extracted PDF hash was submitted to the Password Cracker and the recovery process was initiated.
 
 ---
 
-### 🔹 8.4.7 Verify the Result
+### 🔹 7.4.7 Verify the Result
 
 After the password-recovery process completed, the recovered password was used to open the protected PDF.
 
@@ -527,7 +461,7 @@ Successful access to the document provided verification of the recovery result.
 
 ---
 
-# 🛡️ 9. Module 02  Evidence
+# 🛡️ 8. Module 02  Evidence
 
 > Evidence screenshots are organized under:
 >
