@@ -487,11 +487,11 @@ Successful access to the document provided verification of the recovery result.
 
 ### ⚔️ Password Cracker
 
-<img width="1364" height="716" alt="PASSCRACKED NETWORKWALKS" src="https://github.com/user-attachments/assets/a6273bec-3823-4e4f-ad40-510983c781e5" />
+<img width="1364" height="716" alt="PASSCRACKED NETWORKWALKS" src="https://github.com/Patrick-Adie24/PASSWORD-SECURITY-CRACKING-LABS/blob/main/5.%20Screenshot_networkprocesscracking.png?raw=true" />
 
 ---
 
-# 🛡️ 10. Module Comparison
+# 🛡️ 9. Module Comparison
 
 | **Category** | **Module 01 JTR** | **Module 02 Networkwalks Tools** |
 |---|---|---|
@@ -520,9 +520,9 @@ Successful access to the document provided verification of the recovery result.
 
 ---
 
-# 🛡️ 11. Password Security Concepts
+# 🛡️ 10. Password Security Concepts
 
-##   11.1 Password Cracking
+##   10.1 Password Cracking
 
 Password cracking refers to the process of recovering a password from a password-related representation such as a hash or protected-file credential mechanism.
 
@@ -530,7 +530,7 @@ In a legitimate cybersecurity context, password-recovery techniques can be used 
 
 ---
 
-##    11.2 Hashing
+##    10.2 Hashing
 
 Hashing transforms data into a derived representation known as a hash or message digest.
 
@@ -540,7 +540,7 @@ The important concept demonstrated was that security tools can operate against p
 
 ---
 
-## 🔄 11.3 Encryption vs Hashing
+## 🔄 10.3 Encryption vs Hashing
 
 Encryption and hashing serve different security purposes.
 
@@ -571,7 +571,7 @@ The protected PDF exercise provided a practical demonstration of how password pr
 
 ---
 
-# 🛡️ 12. Skills Demonstrated
+# 🛡️ 11. Skills Demonstrated
 
 <p align="center">
 
@@ -598,7 +598,7 @@ The protected PDF exercise provided a practical demonstration of how password pr
 
 ---
 
-# 🛡️ 13. Observations & Technical Considerations
+# 🛡️ 12. Observations & Technical Considerations
 
 ##  Observation 01 Hash Format
 
@@ -654,7 +654,7 @@ Organizations and users should therefore use strong, unique credentials and appr
 
 ---
 
-# 🛡️ 14. Risk Analysis & Impact
+# 🛡️ 13. Risk Analysis & Impact
 
 | **#** | 🔎 **Observation** | 📊 **Security Relevance** | ⚠️ **Potential Impact** | **Risk** |
 |---:|---|---|---|---|
@@ -670,7 +670,7 @@ Organizations and users should therefore use strong, unique credentials and appr
 
 ---
 
-# 🛡️ 15. Recommendations
+# 🛡️ 14. Recommendations
 
 ### 1️⃣ Use Strong Passwords
 
@@ -714,7 +714,7 @@ Password-security testing must always be conducted within a clearly defined and 
 
 ---
 
-# 🛡️ 16. Security Assessment Summary
+# 🛡️ 15. Security Assessment Summary
 
 | **Assessment Area** | **Status** |
 |---|---|
@@ -742,7 +742,7 @@ DOCUMENTATION            ██████████████████�
 
 ---
 
-# 🛡️ 17. Key Learning Outcomes
+# 🛡️ 16. Key Learning Outcomes
 
 Through the Week 3 practical exercises, I developed hands-on experience with:
 
@@ -782,7 +782,7 @@ SECURITY UNDERSTANDING
 
 ---
 
-# 🛡️ 18. Conclusion
+# 🛡️ 17. Conclusion
 
 During **Week 3 of my Cybersecurity & Ethical Hacking internship at Networkwalks Academy**, I completed practical exercises focused on **password security, hash analysis, password recovery, and protected-file security testing**.
 
@@ -832,7 +832,7 @@ This project represents another step in my development as a cybersecurity profes
 
 ---
 
-# 🛡️ 19. Project Information
+# 🛡️ 18. Project Information
 
 | **Project Detail** | **Information** |
 |---|---|
@@ -877,7 +877,7 @@ This project represents another step in my development as a cybersecurity profes
 
 ---
 
-# 🛡️ 21. Assessment Progress
+# 🛡️ 19. Assessment Progress
 
 ```text
 PHASE 1
@@ -915,7 +915,7 @@ Professional Documentation
 
 <br>
 
-*W3-PS-FINAL | Networkwalks | B083 | 25 August 2026*
+*W3-PS-FINAL | Networkwalks | B083 | 20 October 2026*
 
 <br>
 
