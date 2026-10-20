@@ -26,9 +26,9 @@
 
 | **Category** | **Details** |
 |---|---|
-| 👤 **Student / Analyst** | Alebiosu Oluwadamilare Samuel |
-| 🎓 **Program / Batch** | B082 Networkwalks |
-| 📅 **Assessment Submitted** | 25 August 2026 |
+| 👤 **Student / Analyst** | Adie Patrick Betiang |
+| 🎓 **Program / Batch** | B083 Networkwalks |
+| 📅 **Assessment Submitted** | 20 October 2026 |
 | 🧪 **Week** | Week 03 |
 | 🔐 **Primary Focus** | Password Security & Cracking |
 | ⚔️ **Module 01** | Password Cracking with John the Ripper & Johnny |
