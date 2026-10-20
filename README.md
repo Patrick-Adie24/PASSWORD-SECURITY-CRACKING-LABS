@@ -286,6 +286,8 @@ The `john.exe` executable was selected from the appropriate JTR `run` directory.
 
 The protected PDF supplied for the cybersecurity practical was used as the authorized laboratory target.
 
+<img width="1342" height="762" alt="JOHNNY EXESUCCESS DONE" src="https://github.com/user-attachments/assets/d7433b3f-7155-4b65-8f2e-b793e01e2d72" />
+
 ---
 
 ### 🔹 6.4.4 Extract the PDF Hash
