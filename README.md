@@ -324,7 +324,7 @@ The saved hash file was loaded through Johnny using the password-file workflow.
 
 This provided JTR with the required hash input for the laboratory exercise.
 
-<img width="1345" height="753" alt="JOHNNY PASSWORD PROOF 1" src="https://github.com/user-attachments/assets/15a0c83a-6092-43c8-943d-7d0c3db954e5" />
+<img width="1345" height="753" alt="JOHNNY PASSWORD PROOF 1" src="https://github.com/Patrick-Adie24/PASSWORD-SECURITY-CRACKING-LABS/blob/main/4.%20Screenshot%20_jrcracking.png?raw=true" />
 
 ---
 
@@ -417,13 +417,13 @@ The protected PDF supplied for the laboratory exercise was obtained and used as 
 
 ---
 
-### 🔹 8.4.2 Open the Hash Calculator
+### 🔹 7.4.2 Open the Hash Calculator
 
 The Networkwalks Hash Calculator was opened through a web browser.
 
 ---
 
-### 🔹 8.4.3 Upload the PDF
+### 🔹 7.4.3 Upload the PDF
 
 The protected PDF was uploaded to the Hash Calculator.
 
