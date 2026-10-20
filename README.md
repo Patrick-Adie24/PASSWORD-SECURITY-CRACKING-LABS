@@ -300,6 +300,8 @@ The resulting hash followed the expected PDF hash format beginning with:
 $pdf$
 ```
 
+<img width="1342" height="762" alt="LOCK PDF" src="https://github.com/Patrick-Adie24/PASSWORD-SECURITY-CRACKING-LABS/blob/main/1.%20Screenshot_Obtainpdf.png?raw=true" />
+
 ---
 
 ### 🔹 6.4.5 Create the Hash File
