@@ -286,7 +286,7 @@ The `john.exe` executable was selected from the appropriate JTR `run` directory.
 
 The protected PDF supplied for the cybersecurity practical was used as the authorized laboratory target.
 
-<img width="1342" height="762" alt="JOHNNY EXESUCCESS DONE" src="https://github.com/Patrick-Adie24/PASSWORD-SECURITY-CRACKING-LABS/blob/main/1.%20Screenshot_Obtainpdf.png?raw=true" />
+<img width="1342" height="762" alt="LOCK PDF" src="https://github.com/Patrick-Adie24/PASSWORD-SECURITY-CRACKING-LABS/blob/main/1.%20Screenshot_Obtainpdf.png?raw=true" />
 
 ---
 
