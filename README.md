@@ -13,10 +13,10 @@
 
 **W3-PS-FINAL | CYBERSECURITY | NETWORKWALKS**
 
-### 👤 Alebiosu Oluwadamilare Samuel
-**Cybersecurity Professional | Networkwalks Intern | Batch B082**
+### 👤 Adie Patrick Betiang 
+**Cybersecurity Professional | Networkwalks Intern | Batch B083**
 
-**Assessment Submitted: 25 August 2026**
+**Assessment Submitted: 20 October,  2026**
 
 ---
 
@@ -250,6 +250,16 @@ flowchart TD
 
 John the Ripper was obtained for the Windows environment as required for the laboratory exercise.
 
+<img width="1347" height="593" alt="SETUP JOHNNY" src="https://github.com/user-attachments/assets/5a9e4ebf-a626-4e82-8f11-362a17ae49ad" />
+
+<img width="1359" height="749" alt="JOHNNY SELECT COMPONENT" src="https://github.com/user-attachments/assets/8949ec91-2716-4022-848b-0fc2dfa90283" />
+
+<img width="1365" height="744" alt="JOHNNY MENU SHORTCUT" src="https://github.com/user-attachments/assets/7e78be46-39ed-4fb1-9580-e0a80e8b1b4b" />
+
+<img width="1365" height="767" alt="READY TO INSTALL" src="https://github.com/user-attachments/assets/b16ed393-bfba-4a8b-b51b-f4d496e22a6f" />
+
+<img width="1365" height="762" alt="COMPLETING JOHHNNY WIZARD" src="https://github.com/user-attachments/assets/4ef55594-5231-483e-b880-9afd29575b53" />
+
 ---
 
 ### 🔹 6.4.2 Configure Johnny
@@ -257,6 +267,18 @@ John the Ripper was obtained for the Windows environment as required for the lab
 Johnny GUI was configured to work with the John the Ripper installation.
 
 The `john.exe` executable was selected from the appropriate JTR `run` directory.
+
+<img width="1364" height="753" alt="JTR RUN FOLDER" src="https://github.com/user-attachments/assets/6de33aee-8a24-4df7-a14b-8778e96a50e3" />
+
+<img width="1355" height="750" alt="JTR JOHN EXE" src="https://github.com/user-attachments/assets/64bc801d-653d-4a0e-8515-d8f80be15aec" />
+
+<img width="1364" height="761" alt="JTR FILE AND EXTRACTED" src="https://github.com/user-attachments/assets/7d7e9d58-997d-439a-93d1-6628235e9fdc" />
+
+<img width="1361" height="766" alt="JOHNNY SETTINGS EXE" src="https://github.com/user-attachments/assets/c3cf7fe1-df9f-437b-9a4f-0e7e917014c6" />
+
+<img width="1352" height="766" alt="JOHNNY DONE OPENED" src="https://github.com/user-attachments/assets/5c5da2d4-0fc5-4342-bc68-04beeb5e43e8" />
+
+<img width="1342" height="762" alt="JOHNNY EXESUCCESS DONE" src="https://github.com/user-attachments/assets/d7433b3f-7155-4b65-8f2e-b793e01e2d72" />
 
 ---
 
@@ -271,6 +293,8 @@ The protected PDF supplied for the cybersecurity practical was used as the autho
 The protected PDF was processed to obtain its corresponding password hash.
 
 The resulting hash followed the expected PDF hash format beginning with:
+
+<img width="1345" height="753" alt="JOHNNY PASSWORD PROOF 1" src="https://github.com/user-attachments/assets/15a0c83a-6092-43c8-943d-7d0c3db954e5" />
 
 ```text
 $pdf$
@@ -318,6 +342,8 @@ Recovery time can vary depending on factors such as:
 
 The recovered password was used to open the protected PDF.
 
+<img width="1365" height="767" alt="JOHNNY PASSWORD CRACK 1 IS DONE" src="https://github.com/user-attachments/assets/1d390454-b0f6-48e9-8867-2c39c1629397" />
+
 Successful opening of the PDF provided verification that the password-recovery process had produced the expected result.
 
 ---
@@ -358,7 +384,6 @@ Successful opening of the PDF provided verification that the password-recovery p
 
 ###  PDF Hash Extraction
 
-<img width="1345" height="753" alt="JOHNNY PASSWORD PROOF 1" src="https://github.com/user-attachments/assets/15a0c83a-6092-43c8-943d-7d0c3db954e5" />
 
 <img width="1365" height="760" alt="JOHNNY PASSWORD PROOF 2" src="https://github.com/user-attachments/assets/4b6d95d9-911a-453e-9283-06fe449fa686" />
 
@@ -888,13 +913,13 @@ This project represents another step in my development as a cybersecurity profes
 
 ---
 
-# 👤 20. Author
+# 👤 Author
 
 <div align="center">
 
-### **Alebiosu Oluwadamilare Samuel**
+### **Adie Patrick Betiang**
 
-**Cybersecurity Professional | Networkwalks Intern | Batch B082**
+**Cybersecurity Professional | Networkwalks Intern | Batch B083**
 
 <br>
 
@@ -950,11 +975,11 @@ Professional Documentation
 
 <br>
 
-*W3-PS-FINAL | Networkwalks | B082 | 25 August 2026*
+*W3-PS-FINAL | Networkwalks | B083 | 25 August 2026*
 
 <br>
 
-**Alebiosu Oluwadamilare Samuel**
+**Adie Patrick Betiang**
 
 </div>
 
