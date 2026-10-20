@@ -294,8 +294,6 @@ The protected PDF was processed to obtain its corresponding password hash.
 
 The resulting hash followed the expected PDF hash format beginning with:
 
-<img width="1345" height="753" alt="JOHNNY PASSWORD PROOF 1" src="https://github.com/user-attachments/assets/15a0c83a-6092-43c8-943d-7d0c3db954e5" />
-
 ```text
 $pdf$
 ```
@@ -319,6 +317,8 @@ The hash was preserved as required so that it could be loaded into Johnny.
 The saved hash file was loaded through Johnny using the password-file workflow.
 
 This provided JTR with the required hash input for the laboratory exercise.
+
+<img width="1345" height="753" alt="JOHNNY PASSWORD PROOF 1" src="https://github.com/user-attachments/assets/15a0c83a-6092-43c8-943d-7d0c3db954e5" />
 
 ---
 
