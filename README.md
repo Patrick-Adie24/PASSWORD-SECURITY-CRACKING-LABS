@@ -300,7 +300,7 @@ The resulting hash followed the expected PDF hash format beginning with:
 $pdf$
 ```
 
-<img width="1342" height="762" alt="LOCK PDF" src="https://github.com/Patrick-Adie24/PASSWORD-SECURITY-CRACKING-LABS/blob/main/1.%20Screenshot_Obtainpdf.png?raw=true" />
+<img width="1342" height="762" alt="HASH FILE" src="https://github.com/Patrick-Adie24/PASSWORD-SECURITY-CRACKING-LABS/blob/main/2.%20Screenshot_extractedhashpdf.png?raw=true" />
 
 ---
 
@@ -311,7 +311,8 @@ The extracted hash was saved into a text file:
 ```text
 hash1.txt
 ```
-<img width="1342" height="762" alt="HASH FILE" src="https://github.com/Patrick-Adie24/PASSWORD-SECURITY-CRACKING-LABS/blob/main/2.%20Screenshot_extractedhashpdf.png?raw=true" />
+
+<img width="1342" height="762" alt="HASH FILE" src="https://github.com/Patrick-Adie24/PASSWORD-SECURITY-CRACKING-LABS/blob/main/3.%20Screenshot_createdhashfile.png?raw=true" />
 
 The hash was preserved as required so that it could be loaded into Johnny.
 
